@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+ import Navabr from './components/Navabr.vue';
+</script>
 
 <template></template>
 
